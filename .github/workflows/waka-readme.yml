@@ -1,22 +1,16 @@
 name: Waka Readme
 
 on:
-  schedule:
-    # Runs at 00:00 UTC every day
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Allows you to run it manually
+  workflow_dispatch: # Allows manual triggering
+  schedule:
+    # Runs at 12 AM UTC daily
+    - cron: "0 0 * * *"
 
 jobs:
-  update-readme:
-    name: Update Readme with WakaTime Stats
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          SECTION_NAME: wakatime
-          BLOCKS: █
-          TIME_RANGE: last_7_days
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true this is wakatime yml fiml give me code to insert in readme file
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master # Action to fetch and update stats
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
