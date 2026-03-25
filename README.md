@@ -81,8 +81,8 @@
 ---
 
 ### 📊 Weekly Coding Activity
-<!--START_SECTION:wakatime-->
-<!--END_SECTION:wakatime-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 
 ## 🏆 Achievements & Goals
