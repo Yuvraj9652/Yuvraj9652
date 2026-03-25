@@ -80,6 +80,11 @@
 
 ---
 
+### 📊 Weekly Coding Activity
+<!--START_SECTION:wakatime-->
+<!--END_SECTION:wakatime-->
+---
+
 ## 🏆 Achievements & Goals
 - 🚀 Building scalable full-stack applications  
 - 🤖 Exploring AI/ML integrations in real-world apps  
