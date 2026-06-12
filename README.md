@@ -84,11 +84,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 30 mins          ██████████████████▓░░░░░░   75.15 %
-PowerShell   14 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
-HTML         10 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-JavaScript   3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-Other        1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
