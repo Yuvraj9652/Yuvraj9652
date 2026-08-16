@@ -84,11 +84,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 11 mins          █████████████░░░░░░░░░░░░   52.27 %
-JavaScript   1 hr                  ███████████░░░░░░░░░░░░░░   44.44 %
-Markdown     2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
